@@ -1,0 +1,1 @@
+D:\CSharp\MultiThreading\TestProject\TestProject\IneffectiveLockingConsoleApp\bin\Debug\IneffectiveLockingConsoleApp.exe.config

@@ -1,0 +1,5 @@
+D:\CSharp\Interview\ProdArray\bin\Debug\ProdArray.exe.config
+D:\CSharp\Interview\ProdArray\bin\Debug\ProdArray.exe
+D:\CSharp\Interview\ProdArray\bin\Debug\ProdArray.pdb
+D:\CSharp\Interview\ProdArray\obj\Debug\ProdArray.exe
+D:\CSharp\Interview\ProdArray\obj\Debug\ProdArray.pdb

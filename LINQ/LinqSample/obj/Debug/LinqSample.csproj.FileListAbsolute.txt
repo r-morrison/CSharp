@@ -1,0 +1,6 @@
+D:\CSharp\LINQ\LinqSample\bin\Debug\LinqSample.exe.config
+D:\CSharp\LINQ\LinqSample\bin\Debug\LinqSample.exe
+D:\CSharp\LINQ\LinqSample\bin\Debug\LinqSample.pdb
+D:\CSharp\LINQ\LinqSample\obj\Debug\LinqSample.csprojResolveAssemblyReference.cache
+D:\CSharp\LINQ\LinqSample\obj\Debug\LinqSample.exe
+D:\CSharp\LINQ\LinqSample\obj\Debug\LinqSample.pdb
